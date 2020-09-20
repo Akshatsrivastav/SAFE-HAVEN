@@ -4,9 +4,11 @@ body
 	margin:0;
 	padding:0;
 	background: url(pet1.png) no-repeat;
-	font-family: sans-serif;
+	font-family: 'Noto Sans KR', sans-serif;
 	background-size: cover;
+background-position: center center;
 }
+
 
 .help h1
 {
